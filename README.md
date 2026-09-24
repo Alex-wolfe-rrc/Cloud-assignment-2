@@ -64,7 +64,7 @@ Briefly explain how your pipeline validates Yarrow-Mullein Bank customer service
 
 ### 4. How would you prevent the Lambda function from being triggered by its own output files?
 
-<!-- Your answer. -->
+The prefix filter prevents Lambda's output from triggering it again.
 
 ### 5. If you were deploying outside AWS Academy, how would you scope the Lambda permissions to only the `incoming/` and `processed/` prefixes?
 
