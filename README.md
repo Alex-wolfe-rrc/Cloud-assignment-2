@@ -2,9 +2,9 @@
 
 ## Student Information
 
-- **Name:**
-- **Date completed:**
-- **GitHub repository URL:**
+- **Name: Alex Wolfe**
+- **Date completed: 9/24/2026**
+- **GitHub repository URL: https://github.com/Alex-wolfe-rrc/Cloud-assignment-2**
 
 ## Architecture Diagram
 
