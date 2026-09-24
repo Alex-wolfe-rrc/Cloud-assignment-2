@@ -1,0 +1,52 @@
+{
+  "requests": [
+    {
+      "requestId": "REQ-4101",
+      "customerName": "Jordan Lee",
+      "requestType": "account-inquiry",
+      "createdAt": "2026-02-24T09:00:00Z"
+    },
+    {
+      "requestId": "REQ-4102",
+      "customerName": "Morgan Patel",
+      "requestType": "card-support",
+      "createdAt": "2026-04-24T09:15:00Z"
+    },
+    {
+      "requestId": "REQ-4103",
+      "customerName": "Greg Smith",
+      "requestType": "bank-transfer-request",
+      "createdAt": "2026-08-24T09:00:00Z"
+    },
+    {
+      "requestId": "REQ-4104",
+      "customerName": "Muragranda Johnson",
+      "requestType": "theft-report",
+      "createdAt": "2026-11-24T09:15:00Z"
+    },
+    {
+      "requestId": "REQ-4105",
+      "customerName": "Jordan Lunk",
+      "requestType": "account-inquiry",
+      "createdAt": "2026-02-24T09:00:00Z"
+    },
+    {
+      "requestId": "REQ-4106",
+      "customerName": "Jennessa King",
+      "requestType": "card-support",
+      "createdAt": "2026-04-24T09:15:00Z"
+    },
+    {
+      "requestId": "REQ-4107",
+      "customerName": "Kimmony Hills",
+      "requestType": "bank-transfer-request",
+      "createdAt": "2026-08-24T09:00:00Z"
+    },
+    {
+      "requestId": "REQ-4108",
+      "customerName": "Blake Johnson",
+      "requestType": "theft-report",
+      "createdAt": "2026-11-24T09:15:00Z"
+    }
+  ]
+}

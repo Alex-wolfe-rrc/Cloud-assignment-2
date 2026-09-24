@@ -1,0 +1,15 @@
+{
+  "requests": [
+    {
+      "requestId": "REQ-4201",
+      "customerName": "Casey Brown",
+      "requestType": "account-inquiry"
+    },
+    {
+      "requestId": "REQ-4202",
+      "customerName": "",
+      "requestType": "card-support",
+      "createdAt": "2026-09-24T10:00:00Z"
+    }
+  ]
+}
